@@ -119,6 +119,54 @@ I am a **Senior Software Engineer** with over **11 years** of experience archite
 
 ---
 
+## 🌐 Featured Live Product
+
+<div align="center">
+
+### [![MaatDrive](https://img.shields.io/badge/🚀_MaatDrive-Live_Product-0EA5E9?style=for-the-badge)](https://maatdrive.com/)
+
+</div>
+
+<table>
+  <tr>
+    <td width="60%">
+
+**[MaatDrive](https://maatdrive.com/)** is a cloud-based **Business Management SaaS platform** built for trade, crafts, and service companies — serving the **German market**.
+
+**🔑 Key Modules I Built:**
+
+| Module | Description |
+|---|---|
+| 👥 **Customer Management** | Full CRM — organize & grow client relationships |
+| 🏭 **Supplier Management** | Streamlined vendor data & procurement |
+| 📦 **Inventory Management** | Stock tracking, picking & inventory control |
+| 📁 **Project Management** | Plan and execute complex jobs efficiently |
+| 🧾 **Invoicing & Quotations** | Auto-generate quotes, invoices & delivery notes |
+| 📒 **Accounting Prep** | Bookkeeping data ready for further processing |
+| ⏱️ **Time Tracking** | Employee time recording per project/task |
+| 📊 **Reports & Dashboard** | Real-time business insights & analytics |
+
+    </td>
+    <td width="40%" align="center">
+
+[![MaatDrive](https://img.shields.io/badge/Visit_Live_Site-maatdrive.com-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maatdrive.com/)
+
+[![Login](https://img.shields.io/badge/App_Login-maatdrive.app-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maatdrive.app/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Maatdrive/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maatdrive/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/showcase/maatdrive/)
+
+**🌍 Market:** Germany  
+**🏷️ Type:** SaaS / Cloud ERP  
+**📌 Status:** ✅ Live & Active
+
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Enterprise Projects Portfolio
 
 > 🏭 **18 modules** built and deployed across manufacturing, energy, and government sectors.
