@@ -3,9 +3,11 @@
 </div>
 
 <br/>
+ <div align="center">
 
-<div align="center">
+# 👋 Hi there, I'm Golam Mostofa
 
+### **Senior Software Engineer & ERP Architect**
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=560&lines=Building+Scalable+ERP+Systems+%F0%9F%8F%97%EF%B8%8F;Full+Stack+.NET+%2B+PHP+%2B+Next.js+Developer;11%2B+Years+of+Enterprise+Architecture;From+Factory+Floors+to+Cloud+Platforms+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </p>
