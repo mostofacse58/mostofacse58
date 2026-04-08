@@ -1,83 +1,152 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=0EA5E9" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Golam%20Mostofa&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%26%20ERP%20Architect&descAlignY=60&descSize=16" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
 
-# 👋 Hi there, I'm Golam Mostofa
-
-### **Senior Software Engineer & ERP Architect**
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Building+Scalable+ERP+Systems;Full+Stack+Developer;ASP.NET+Core+%2B+Next.js+Expert;Bridging+Manufacturing+%26+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=560&lines=Building+Scalable+ERP+Systems+%F0%9F%8F%97%EF%B8%8F;Full+Stack+.NET+%2B+PHP+%2B+Next.js+Developer;11%2B+Years+of+Enterprise+Architecture;From+Factory+Floors+to+Cloud+Platforms+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdalaminmiah/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://mdalaminmiah.github.io/alamin/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdalaminmiah)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.a.hossain)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golammostofa58/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white)](https://mostofacse58.github.io/mostofacse58/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostofacse58)
+[![Website](https://img.shields.io/badge/GTechSoft-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gtechsoft.xyz/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/golam.mostofa51)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-I am a **Senior Software Engineer** with over **7 years** of experience architecting high-stakes **Enterprise ERP systems**. My career has been forged in the complex operational landscapes of Bangladesh's garment, textile, Dyeing & Printing, and leather manufacturing industries.
+## 👨‍💻 About Me
 
-- **What I do:** I turn fragmented factory floors into synchronized digital ecosystems (HRMS, Payroll, Production, Finance, Costing & Digital Reporting).
-- **The Evolution:** While my foundation is built on the robust **.NET & SQL Server** stack, I am currently leveraging **Modern Full-Stack JavaScript** (Next.js, Node.js, MongoDB) to build the next generation of lean, cloud-native enterprise tools.
+I am a **Senior Software Engineer** with over **11 years** of experience architecting high-stakes **Enterprise ERP systems**. My career has been forged in the complex operational landscapes of Bangladesh's Army MGO Branch, Textile, IT, Energy, and Leather manufacturing industries.
 
-> _"Building systems that run factories. Now building the tools that run the web."_
+- 🏗️ **I turn** fragmented factory floors into synchronized digital ecosystems — HRMS, Payroll, Production, Finance & Costing
+- 🔁 **My Evolution:** From robust **.NET & SQL Server** roots to modern **PHP Laravel**, **Next.js** and cloud-native tools
+- 🌍 **Based in** Dhaka, Bangladesh
+- 🚀 **Currently** Building lean enterprise SaaS platforms
+- 💬 **Ask me about** ERP systems, API design, and scalable backend architecture
 
----
+> *"Building systems that run factories. Now building the tools that run the web."*
 
-## 🛠 Tech Stack & Expertise
-
-### 🏗 Backend & Core Architecture
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-0078D4?style=for-the-badge&logo=nuget&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### 🎨 Frontend & UI Design
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![daisyUI](https://img.shields.io/badge/daisyUI-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=black)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 💾 Database
-
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<br clear="right"/>
 
 ---
+
+## 🛠️ Tech Stack & Expertise
+
+### 🔷 Backend & Core Architecture
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-0078D4?style=for-the-badge&logo=nuget&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
+</p>
+
+### 🐘 PHP Ecosystem
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+</p>
+
+### 🎨 Frontend & UI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 💾 Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ### 📊 Reporting & Data Visualization
 
-![ECharts](https://img.shields.io/badge/ECharts-AA0000?style=for-the-badge&logo=apacheecharts&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PDF](https://img.shields.io/badge/iTextSharp-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![Excel](https://img.shields.io/badge/EPPlus-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_ECharts-AA0000?style=for-the-badge&logo=apacheecharts&logoColor=white" />
+  <img src="https://img.shields.io/badge/iTextSharp-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  <img src="https://img.shields.io/badge/EPPlus_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+### 🔧 DevOps & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-
----
-
-_" **7+ years plus** building systems that run factories. Now building the tools that run the web."_
+## 🏢 Domain Expertise
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+
+| 🏭 Domain | 📦 Modules Built |
+|---|---|
+| **Army / Govt (MGO Branch)** | Inventory, Store Management, Reporting |
+| **Textile & Garments** | Production, Costing, Payroll, HR |
+| **Leather Manufacturing** | Raw Material, Finishing, Export Docs |
+| **Energy Sector** | Asset Management, Field Reporting |
+| **IT Firm** | Project Management, Billing, CRM |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostofacse58&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofacse58&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostofacse58&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golammostofa58/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golam.mostofa58@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gtechsoft.xyz/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mostofacse58&label=Profile+Views&color=0EA5E9&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
