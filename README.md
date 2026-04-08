@@ -47,6 +47,9 @@ I am a **Senior Software Engineer** with over **11 years** of experience archite
 ### 🔷 Backend & Core Architecture
 
 <p align="left">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -55,23 +58,17 @@ I am a **Senior Software Engineer** with over **11 years** of experience archite
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
 </p>
 
-### 🐘 PHP Ecosystem
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-</p>
 
 ### 🎨 Frontend & UI
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
 </p>
 
 ### 💾 Databases
@@ -86,11 +83,12 @@ I am a **Senior Software Engineer** with over **11 years** of experience archite
 ### 📊 Reporting & Data Visualization
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  
   <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_ECharts-AA0000?style=for-the-badge&logo=apacheecharts&logoColor=white" />
   <img src="https://img.shields.io/badge/iTextSharp-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   <img src="https://img.shields.io/badge/EPPlus_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ### 🔧 DevOps & Tools
@@ -202,7 +200,6 @@ I am a **Senior Software Engineer** with over **11 years** of experience archite
     </td>
     <td width="45%" align="center">
 
-[![Visit Epicor](https://img.shields.io/badge/Visit-epicor.com-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.epicor.com/en-us/)
 
 <br/>
 
@@ -223,6 +220,62 @@ I am a **Senior Software Engineer** with over **11 years** of experience archite
     </td>
   </tr>
 </table>
+
+---
+
+## 🏢 Featured Enterprise Project
+
+<div align="center">
+
+### [![Employee Self Service](https://img.shields.io/badge/🏢_Employee_Self_Service_(ESS)-Enterprise_System-6366F1?style=for-the-badge)](#)
+
+</div>
+
+<table>
+  <tr>
+    <td width="60%">
+
+**Employee Self Service (ESS)** is an internal **enterprise HR platform** designed to empower employees to manage their own workplace services digitally.
+
+It reduces administrative workload and increases transparency across HR operations.
+
+**🔑 Key Modules I Built:**
+
+| Module | Description |
+|---|---|
+| 👤 **Employee Profile** | Personal info, documents, and employee records |
+| 📝 **Leave Management** | Apply, approve, and track employee leave |
+| ⏱️ **Attendance & Time** | Attendance monitoring and work hour tracking |
+| 💰 **Payroll Access** | Salary slips, payroll records, tax details |
+| 📄 **Loan & Advance** | Request and manage employee loans/advances |
+| 📊 **HR Reports** | Employee data insights and analytics |
+| 🔔 **Notifications** | Alerts for approvals, HR updates, and events |
+| ✍️ **eSignature Integration** | Digital approvals and documentation |
+
+    </td>
+    <td width="40%" align="center">
+
+<br/>
+
+**🏭 Industry:** Manufacturing  
+**💻 Type:** Enterprise HR Platform  
+**👥 Users:** Employees, HR, Management  
+**🌍 Deployment:** Internal Corporate System  
+**📌 Status:** ✅ Live & Running  
+
+<br/>
+
+![HR](https://img.shields.io/badge/Module-HR_System-6366F1?style=flat-square)
+![Leave](https://img.shields.io/badge/Feature-Leave_Management-0EA5E9?style=flat-square)
+![Attendance](https://img.shields.io/badge/Feature-Attendance-10B981?style=flat-square)
+![Payroll](https://img.shields.io/badge/Feature-Payroll-EF4444?style=flat-square)
+![ESS](https://img.shields.io/badge/System-Employee_Self_Service-F59E0B?style=flat-square)
+
+    </td>
+  </tr>
+</table>
+
+---
 
 
 
