@@ -167,7 +167,62 @@ I am a **Senior Software Engineer** with over **11 years** of experience archite
 
 ---
 
-## 🚀 Enterprise Projects Portfolio
+## 🏭 Enterprise ERP Implementation
+
+<div align="center">
+
+### [![Epicor ERP](https://img.shields.io/badge/⚙️_Epicor_ERP-Implementation_Lead-FF6B00?style=for-the-badge)](https://www.epicor.com/en-us/)
+
+> 🏆 **Gartner® Magic Quadrant™ Leader** — Cloud ERP for Product-Centric Enterprises *(3 consecutive years)*
+
+</div>
+
+<table>
+  <tr>
+    <td width="55%">
+
+**[Epicor ERP](https://www.epicor.com/en-us/)** is a world-class **Enterprise Resource Planning platform** used by 23,000+ companies across 150+ countries. I led the **full implementation and customization** of Epicor ERP within our manufacturing organization.
+
+**🔑 Core Responsibilities:**
+
+| Area | What I Did |
+|---|---|
+| ⚙️ **System Implementation** | End-to-end ERP rollout across departments |
+| 🔧 **Core Customization** | Custom BAQ, BPM, and UI modifications |
+| 🏭 **Production Module** | Shop floor, job management & scheduling setup |
+| 📦 **Inventory & WMS** | Warehouse management & stock control config |
+| 💰 **Financial Management** | GL, AP/AR, costing & reporting setup |
+| 🔗 **Supply Chain (SCM)** | Supplier portal & procurement workflows |
+| 📊 **SSRS / BAQ Reports** | Custom dashboards & operational reports |
+| 🔄 **Data Migration** | Legacy data mapping & clean migration |
+| 👥 **User Training** | Department-wide onboarding & documentation |
+
+    </td>
+    <td width="45%" align="center">
+
+[![Visit Epicor](https://img.shields.io/badge/Visit-epicor.com-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.epicor.com/en-us/)
+
+<br/>
+
+**📌 Platform:** Epicor Kinetic (Cloud ERP)
+**🏭 Industry:** Manufacturing
+**🌍 Scale:** Enterprise-grade
+**📋 Status:** ✅ Implemented & Live
+
+<br/>
+
+![ERP](https://img.shields.io/badge/ERP-Epicor_Kinetic-FF6B00?style=flat-square)
+![BAQ](https://img.shields.io/badge/Custom-BAQ_Reports-0EA5E9?style=flat-square)
+![BPM](https://img.shields.io/badge/Custom-BPM_Logic-10B981?style=flat-square)
+![SCM](https://img.shields.io/badge/Module-Supply_Chain-8B5CF6?style=flat-square)
+![MES](https://img.shields.io/badge/Module-MES-F59E0B?style=flat-square)
+![Finance](https://img.shields.io/badge/Module-Financials-EF4444?style=flat-square)
+
+    </td>
+  </tr>
+</table>
+
+
 
 > 🏭 **18 modules** built and deployed across manufacturing, energy, and government sectors.
 
