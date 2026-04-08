@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Golam%20Mostofa&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%26%20ERP%20Architect&descAlignY=60&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=0EA5E9" width="100%"/>
 </div>
 
 <br/>
@@ -118,6 +118,63 @@ I am a **Senior Software Engineer** with over **11 years** of experience archite
 
 ---
 
+## 🚀 Enterprise Projects Portfolio
+
+> 🏭 **18 modules** built and deployed across manufacturing, energy, and government sectors.
+
+<div align="center">
+
+### 🔶 Core ERP Modules
+
+| # | 📦 Module | # | 📦 Module |
+|:---:|---|:---:|---|
+| 01 | 📦 **Inventory Management** | 02 | 🏛️ **Assets Management** |
+| 03 | 💰 **Accounts Module** | 04 | 🔧 **TPM Module** |
+| 05 | 🔍 **Internal Audit Module** | 06 | 🏭 **Production Module** |
+| 07 | ⚙️ **MES Module** | 08 | 📋 **Production Material Requisition System** |
+
+### 🔷 Operations & Management Modules
+
+| # | 📦 Module | # | 📦 Module |
+|:---:|---|:---:|---|
+| 09 | 🏢 **Administration Module** | 10 | 🤝 **Employee Support Services** |
+| 11 | 🎯 **Hoshin Kanri Module** | 12 | 📬 **Courier Management** |
+| 13 | 🗑️ **Disposal Management System** | 14 | 🚪 **Gate Pass System** |
+| 15 | 📁 **Project Module** | 16 | ✅ **S6S Audit** |
+
+### 🔹 Utility & Compliance Modules
+
+| # | 📦 Module | # | 📦 Module |
+|:---:|---|:---:|---|
+| 17 | 📱 **SIM Management System** | 18 | ✍️ **eSignature System** |
+
+</div>
+
+<div align="center">
+
+![Inventory](https://img.shields.io/badge/Inventory_Management-✔_Delivered-0EA5E9?style=flat-square)
+![Assets](https://img.shields.io/badge/Assets_Management-✔_Delivered-0EA5E9?style=flat-square)
+![Accounts](https://img.shields.io/badge/Accounts_Module-✔_Delivered-10B981?style=flat-square)
+![TPM](https://img.shields.io/badge/TPM_Module-✔_Delivered-10B981?style=flat-square)
+![Audit](https://img.shields.io/badge/Internal_Audit-✔_Delivered-8B5CF6?style=flat-square)
+![Production](https://img.shields.io/badge/Production_Module-✔_Delivered-8B5CF6?style=flat-square)
+![MES](https://img.shields.io/badge/MES_Module-✔_Delivered-F59E0B?style=flat-square)
+![PMRS](https://img.shields.io/badge/Material_Requisition-✔_Delivered-F59E0B?style=flat-square)
+![Admin](https://img.shields.io/badge/Administration-✔_Delivered-EF4444?style=flat-square)
+![ESS](https://img.shields.io/badge/Employee_Support-✔_Delivered-EF4444?style=flat-square)
+![Hoshin](https://img.shields.io/badge/Hoshin_Kanri-✔_Delivered-0EA5E9?style=flat-square)
+![Courier](https://img.shields.io/badge/Courier_Mgmt-✔_Delivered-10B981?style=flat-square)
+![Disposal](https://img.shields.io/badge/Disposal_System-✔_Delivered-8B5CF6?style=flat-square)
+![GatePass](https://img.shields.io/badge/Gate_Pass-✔_Delivered-F59E0B?style=flat-square)
+![Project](https://img.shields.io/badge/Project_Module-✔_Delivered-EF4444?style=flat-square)
+![S6S](https://img.shields.io/badge/S6S_Audit-✔_Delivered-0EA5E9?style=flat-square)
+![SIM](https://img.shields.io/badge/SIM_Management-✔_Delivered-10B981?style=flat-square)
+![Esign](https://img.shields.io/badge/eSignature_System-✔_Delivered-8B5CF6?style=flat-square)
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -148,5 +205,5 @@ I am a **Senior Software Engineer** with over **11 years** of experience archite
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </div>
