@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hi there, I'm Md. Al Amin Miah
+# 👋 Hi there, I'm Golam Mostofa
 
 ### **Senior Software Engineer & ERP Architect**
 
